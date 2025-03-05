@@ -11,3 +11,5 @@ public class UsersmanagementsystemApplication {
 	}
 
 }
+//git config --global user.name "Subhashyd"
+//git config --global user.email "your-email@example.com"
